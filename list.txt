@@ -1,0 +1,11 @@
+www.lithium.com
+lithium.facebook.com
+retency.com
+graph.facebook.com
+www.cognix-systems.com
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
+b-graph.facebook.com
+www.retency.com
+b-api.facebook.com
+
